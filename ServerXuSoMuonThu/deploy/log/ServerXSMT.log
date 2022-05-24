@@ -1,0 +1,36 @@
+﻿2022-05-24 14:10:54,079 [1] DEBUG srcServerXuSoMuonThu.World [(null)] - class World is init!
+2022-05-24 14:10:55,044 [1] DEBUG srcServerXuSoMuonThu.World [(null)] - 11
+2022-05-24 14:10:55,076 [1] DEBUG srcServerXuSoMuonThu.World [(null)] - 33
+2022-05-24 14:10:55,077 [1] DEBUG srcServerXuSoMuonThu.GameServerApplication [(null)] - Server is Ready! 31721 31721
+2022-05-24 14:10:55,079 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application start: AppId=myConfig; AppPath=C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu, Type=srcServerXuSoMuonThu.GameServerApplication 
+2022-05-24 14:10:56,610 [13] DEBUG srcServerXuSoMuonThu.Rooms.DongBangDongNam [(null)] - Đồng Bằng Đông Nam Khởi tạo khu vực: 1
+2022-05-24 14:10:56,610 [14] DEBUG srcServerXuSoMuonThu.Rooms.HaLuuPhiaNam [(null)] - Hạ Lưu Phía Nam Khởi tạo khu vực: 1
+2022-05-24 14:10:56,610 [12] DEBUG srcServerXuSoMuonThu.Rooms.ThanhPhoKhoiNguyen [(null)] - Thành Phố Khởi Nguyên Khởi tạo khu vực: 1
+2022-05-24 14:10:57,388 [18] DEBUG Photon.SocketServer.ApplicationBase [(null)] - OnInit - ConnID=2, IP 127.0.0.1 on port 4530, type = TCPListener
+2022-05-24 14:10:57,409 [18] DEBUG Photon.SocketServer.Protocol [(null)] - Parsed init message for application myConfig, client version 4.0.5.0, protocol GpBinaryV2 version 1.6 sdk 65535 using IPv6 False
+2022-05-24 14:10:57,994 [13] DEBUG srcServerXuSoMuonThu.Rooms.DongBangDongNam [(null)] - Đồng Bằng Đông Nam Khởi tạo khu vực: 2
+2022-05-24 14:10:57,994 [14] DEBUG srcServerXuSoMuonThu.Rooms.HaLuuPhiaNam [(null)] - Hạ Lưu Phía Nam Khởi tạo khu vực: 2
+2022-05-24 14:10:57,994 [12] DEBUG srcServerXuSoMuonThu.Rooms.ThanhPhoKhoiNguyen [(null)] - Thành Phố Khởi Nguyên Khởi tạo khu vực: 2
+2022-05-24 14:10:59,053 [15] DEBUG srcServerXuSoMuonThu.Handlers.LoginHandler [(null)] - Yêu cầu đăng nhập: 5, có 1 người
+2022-05-24 14:10:59,365 [12] DEBUG srcServerXuSoMuonThu.Rooms.ThanhPhoKhoiNguyen [(null)] - Thành Phố Khởi Nguyên Khởi tạo khu vực: 3
+2022-05-24 14:10:59,365 [14] DEBUG srcServerXuSoMuonThu.Rooms.HaLuuPhiaNam [(null)] - Hạ Lưu Phía Nam Khởi tạo khu vực: 3
+2022-05-24 14:10:59,365 [13] DEBUG srcServerXuSoMuonThu.Rooms.DongBangDongNam [(null)] - Đồng Bằng Đông Nam Khởi tạo khu vực: 3
+2022-05-24 14:11:00,739 [13] DEBUG srcServerXuSoMuonThu.Rooms.DongBangDongNam [(null)] - Đồng Bằng Đông Nam Khởi tạo khu vực: 4
+2022-05-24 14:11:00,739 [14] DEBUG srcServerXuSoMuonThu.Rooms.HaLuuPhiaNam [(null)] - Hạ Lưu Phía Nam Khởi tạo khu vực: 4
+2022-05-24 14:11:00,739 [12] DEBUG srcServerXuSoMuonThu.Rooms.ThanhPhoKhoiNguyen [(null)] - Thành Phố Khởi Nguyên Khởi tạo khu vực: 4
+2022-05-24 14:11:22,180 [18] DEBUG Photon.SocketServer.ApplicationBase [(null)] - OnDisconnect - ConnID=2 reasonCode=TimeoutDisconnect
+2022-05-24 14:11:22,183 [16] DEBUG srcServerXuSoMuonThu.Rooms.Room [(null)] - Nhân Vật Valentines rời, phòng còn 0 NV
+2022-05-24 14:12:47,807 [18] DEBUG Photon.SocketServer.ApplicationBase [(null)] - OnInit - ConnID=3, IP 127.0.0.1 on port 4530, type = TCPListener
+2022-05-24 14:12:47,808 [18] DEBUG Photon.SocketServer.Protocol [(null)] - Parsed init message for application myConfig, client version 4.0.5.0, protocol GpBinaryV2 version 1.6 sdk 65535 using IPv6 False
+2022-05-24 14:12:49,431 [15] DEBUG srcServerXuSoMuonThu.Handlers.LoginHandler [(null)] - Yêu cầu đăng nhập: 5, có 1 người
+2022-05-24 14:13:07,810 [14] DEBUG srcServerXuSoMuonThu.Rooms.Room [(null)] - Nhân Vật Valentines rời, phòng còn 0 NV
+2022-05-24 14:13:19,238 [10] DEBUG srcServerXuSoMuonThu.World [(null)] - UPDATE inventoryitem SET SoLuong='162' WHERE IDtaikhoan = '5' and itemID = '1'
+2022-05-24 14:13:29,342 [14] DEBUG srcServerXuSoMuonThu.World [(null)] - UPDATE inventoryitem SET SoLuong='100' WHERE IDtaikhoan = '5' and itemID = '2'
+2022-05-24 14:13:41,033 [12] DEBUG srcServerXuSoMuonThu.World [(null)] - UPDATE inventoryitem SET SoLuong='163' WHERE IDtaikhoan = '5' and itemID = '1'
+2022-05-24 14:13:49,724 [13] DEBUG srcServerXuSoMuonThu.World [(null)] - UPDATE inventoryitem SET SoLuong='164' WHERE IDtaikhoan = '5' and itemID = '1'
+2022-05-24 14:13:59,832 [16] DEBUG srcServerXuSoMuonThu.World [(null)] - UPDATE inventoryitem SET SoLuong='12' WHERE IDtaikhoan = '5' and itemID = '6'
+2022-05-24 14:14:42,808 [18] DEBUG Photon.SocketServer.ApplicationBase [(null)] - OnDisconnect - ConnID=3 reasonCode=TimeoutDisconnect
+2022-05-24 14:14:42,810 [17] DEBUG srcServerXuSoMuonThu.Rooms.Room [(null)] - Nhân Vật Valentines rời, phòng còn 0 NV
+2022-05-24 14:15:25,211 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application is stopping: AppId=myConfig
+2022-05-24 14:15:25,216 [1] DEBUG srcServerXuSoMuonThu.GameServerApplication [(null)] - Server was Stoped!
+2022-05-24 14:15:25,217 [1] INFO  Photon.SocketServer.ApplicationBase [(null)] - Application stop: AppId=myConfig

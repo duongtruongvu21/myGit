@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3c5859d-f2ae-4f84-9295-7dd8c87c828d": {
+      "ProjectGuid": "e3c5859d-f2ae-4f84-9295-7dd8c87c828d",
+      "DisplayName": "srcServerXuSoMuonThu",
+      "ColorIndex": 0
+    },
+    "2ec4c259-ec8b-4dba-9623-b9c1a0b2a5ee": {
+      "ProjectGuid": "2ec4c259-ec8b-4dba-9623-b9c1a0b2a5ee",
+      "DisplayName": "PublicGameClass",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

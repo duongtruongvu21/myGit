@@ -1,0 +1,17 @@
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\log4net.config
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\srcServerXuSoMuonThu.dll
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\srcServerXuSoMuonThu.pdb
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.csproj.AssemblyReference.cache
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.csproj.CopyComplete
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.dll
+C:\Users\duong\Downloads\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.pdb
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\log4net.config
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\srcServerXuSoMuonThu.dll
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\srcServerXuSoMuonThu.pdb
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.csproj.AssemblyReference.cache
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.csproj.CoreCompileInputs.cache
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.csproj.CopyComplete
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.dll
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\srcServerXuSoMuonThu\srcServerXuSoMuonThu\obj\Debug\srcServerXuSoMuonThu.pdb
+C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\libXuSoMuonThu\bin\srcServerXuSoMuonThu.dll.config

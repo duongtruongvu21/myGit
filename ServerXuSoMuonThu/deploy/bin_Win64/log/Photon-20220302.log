@@ -1,0 +1,18 @@
+11216: 12:23:33.613 - ---
+11216: 12:23:33.613 - Service: "Photon Socket Server" starting
+11216: 12:23:33.613 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+11216: 12:23:33.615 - Will produce at most: 10 crash dumps
+11216: 12:23:33.616 - Service shutting down
+11216: 12:23:33.617 - Service shut down complete
+6124: 12:44:46.167 - ---
+6124: 12:44:46.167 - Service: "Photon Socket Server" starting
+6124: 12:44:46.168 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+6124: 12:44:46.172 - Will produce at most: 10 crash dumps
+6124: 12:44:46.172 - Service shutting down
+6124: 12:44:46.175 - Service shut down complete
+5348: 12:50:02.915 - ---
+5348: 12:50:02.915 - Service: "Photon Socket Server" starting
+5348: 12:50:02.915 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+5348: 12:50:02.918 - Will produce at most: 10 crash dumps
+5348: 12:50:02.918 - Service shutting down
+5348: 12:50:02.921 - Service shut down complete

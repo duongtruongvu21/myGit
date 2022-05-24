@@ -1,0 +1,662 @@
+7500: 09:53:34.576 - ---
+7500: 09:53:34.576 - Service: "Photon Socket Server" starting
+7500: 09:53:34.577 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+7500: 09:53:34.580 - Will produce at most: 10 crash dumps
+7500: 09:53:34.580 - Action: run as exe
+7500: 09:53:34.581 - Server Starting...
+7500: 09:53:34.581 -    Tick count: 90366406 (wraps in: 48.6644 days)
+7500: 09:53:34.581 - Tick count 64: 90366406
+7500: 09:53:34.581 - Photon Version: 4.0.28.2962
+7500: 09:53:34.581 - PID: 17336
+7500: 09:53:34.581 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+7500: 09:53:34.582 - Will NOT log unimportant exceptions
+7500: 09:53:34.586 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+7500: 09:53:34.587 - Shutdown timeout enabled: 30000ms
+7500: 09:53:34.587 - Starting I/O thread pool with 2 threads
+7500: 09:53:34.588 - Using Standard allocator
+7500: 09:53:34.588 - Max message size: 512000
+7500: 09:53:34.588 - Starting business logic thread pool with the following settings
+7500: 09:53:34.588 - InitialThreads: 4 threads
+7500: 09:53:34.588 - MinThreads: 4 threads
+7500: 09:53:34.588 - Thread pool is fixed size
+7500: 09:53:34.589 - Starting ENet thread pool with the following settings
+7500: 09:53:34.589 - InitialThreads: 2 threads
+7500: 09:53:34.589 - MinThreads: 2 threads
+7500: 09:53:34.589 - Thread pool is fixed size
+7500: 09:53:34.589 - OnlyDispatchTimers: False
+7500: 09:53:34.589 - S2S: flow control: Max pending writes: 50
+7500: 09:53:34.589 - S2S: flow control: Max queued buffers: 200
+7500: 09:53:34.589 - S2S: flow control: Max pending writes MUX: 500
+7500: 09:53:34.589 - S2S: flow control: Max queued buffers MUX: 2000
+7500: 09:53:34.589 - S2S: MaxInboundMessageSize: 512000
+7500: 09:53:34.589 - S2S: MaxOutboundMessageSize: 512000
+7500: 09:53:34.589 - S2S: No inactivity timeout
+7500: 09:53:34.593 - WebSocket S2S: MaxInboundMessageSize: 512000
+7500: 09:53:34.593 - WebSocket S2S: MaxOutboundMessageSize: 512000
+7500: 09:53:34.593 - WebSocket S2S: No inactivity timeout
+7500: 09:53:34.593 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+7500: 09:53:34.593 - Per peer bandwidth limit
+7500: 09:53:34.593 - Transmit Rate Limit: 256 KB/Sec
+7500: 09:53:34.593 - Limit period: 200ms
+7500: 09:53:34.593 - Limit per period: 52428 bytes
+7500: 09:53:34.593 - Max queued data for transmission per peer: 512000 bytes
+7500: 09:53:34.593 - Minimum retransmit timeout: 200
+7500: 09:53:34.593 - No Maximum retransmit timeout
+7500: 09:53:34.593 - Minimum ENet timeout: 40000ms
+7500: 09:53:34.593 - Maximum ENet timeout: 50000ms
+7500: 09:53:34.593 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+7500: 09:53:34.593 - No RTT ACK adjustment timeout
+7500: 09:53:34.593 - Outbound ENet: MaxInboundMessageSize: 512000
+7500: 09:53:34.593 - Outbound ENet: MaxOutboundMessageSize: 512000
+7500: 09:53:34.654 - GetRuntime - About to load CLR - versions available:
+7500: 09:53:34.654 - v2.0.50727
+7500: 09:53:34.654 - v4.0.30319
+7500: 09:53:34.654 - Configuration requests: "v2.0.50727"
+7500: 09:53:34.654 - About to load version: "v2.0.50727"
+7500: 09:53:34.743 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+7500: 09:53:34.743 - CLRBaseDirectory set to "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy"
+7500: 09:53:34.743 - Optimising event broadcast for 20 or more peers
+7500: 09:53:34.745 - Start: About to load CLR - versions available:
+7500: 09:53:34.745 - v2.0.50727
+7500: 09:53:34.745 - v4.0.30319
+7500: 09:53:34.745 - No preference in configuration file, will load latest.
+7500: 09:53:34.745 - About to load version: "v4.0.30319"
+7500: 09:53:34.747 - Loaded version: "v4.0.30319"
+7500: 09:53:34.988 - Photon host runtime loaded
+7500: 09:53:37.937 - License is valid.
+7500: 09:53:37.937 - Licensed for 100 concurrent connections.
+7500: 09:53:37.937 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+7500: 09:53:37.937 - ENet: Per peer bandwidth limit
+7500: 09:53:37.937 - ENet: Transmit Rate Limit: 256 KB/Sec
+7500: 09:53:37.937 - ENet: Limit period: 200ms
+7500: 09:53:37.937 - ENet: Limit per period: 52428 bytes
+7500: 09:53:37.937 - ENet: Max queued data for transmission per peer: 512000 bytes
+7500: 09:53:37.937 - ENet: Minimum retransmit timeout: 200
+7500: 09:53:37.937 - No Maximum retransmit timeout
+7500: 09:53:37.937 - ENet: Minimum timeout: 40000ms
+7500: 09:53:37.937 - ENet: Maximum timeout: 50000ms
+7500: 09:53:37.937 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+7500: 09:53:37.937 - No RTT ACK adjustment timeout
+7500: 09:53:37.937 - About to load application: myConfig from srcServerXuSoMuonThu
+7500: 09:53:38.132 - Taking reference on default app domain
+7500: 09:53:38.473 - Application: "myConfig" started in app domain: 2
+7500: 09:53:38.473 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+7500: 09:53:38.473 - TCP inactivity timeout: 10000ms
+7500: 09:53:38.473 - TCP disconnect timeout: 120000ms
+7500: 09:53:38.473 - MaxInboundMessageSize: 512000
+7500: 09:53:38.473 - MaxOutboundMessageSize: 512000
+7500: 09:53:38.473 - Forcing all applications ids to: "myConfig"
+7500: 09:53:38.483 - Serving policy file requests from: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+7500: 09:53:38.483 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+7500: 09:53:38.483 - TCP inactivity timeout: 5000ms
+7500: 09:53:38.483 - TCP disconnect timeout: 120000ms
+7500: 09:53:38.483 - MaxInboundMessageSize: 512000
+7500: 09:53:38.483 - MaxOutboundMessageSize: 512000
+7500: 09:53:38.483 - Forcing all applications ids to: "myConfig"
+7500: 09:53:38.483 - MaxInboundMessageSize: 512000
+7500: 09:53:38.483 - MaxOutboundMessageSize: 512000
+7500: 09:53:38.483 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+7500: 09:53:38.484 - Adding UDP listener on: 192.168.253.128: 5055 with a listen backlog of: 500
+7500: 09:53:38.484 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+7500: 09:53:38.484 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+7500: 09:53:38.484 - Nagle disabled
+7500: 09:53:38.484 - TCP inactivity timeout: 10000ms
+7500: 09:53:38.484 - MaxInboundMessageSize: 512000
+7500: 09:53:38.484 - MaxOutboundMessageSize: 512000
+7500: 09:53:38.484 - Forcing all applications ids to: "myConfig"
+7500: 09:53:38.484 - Will accept ANY sub-protocols from the client
+7500: 09:53:38.484 - No automatic WebSocket ping
+7500: 09:53:38.485 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+7500: 09:53:38.485 - TCP inactivity timeout: 1000ms
+7500: 09:53:38.503 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy-silverlight.xml"
+7500: 09:53:38.503 - TCP inactivity timeout: 1000ms
+7500: 09:53:38.547 - Service is running...
+7500: 12:23:33.609 - Service is stopped...
+7500: 12:23:33.609 - Server shutting down...
+7500: 12:23:33.609 - Shutdown monitoring enabled, 30000ms before process abort
+7500: 12:23:33.609 - Notifying CLR applications of shutdown...
+7500: 12:23:33.609 - RequestApplicationStop: 2
+7500: 12:23:33.618 - RequestStop: defalt app domain
+7500: 12:23:33.620 - Shutting down WebSocket Outbound Connection Manager...
+7500: 12:23:33.620 - Shutting down TCP Outbound Connection Manager...
+7500: 12:23:33.621 - Shutting down ENet Outbound Connection Manager...
+7500: 12:23:33.621 - Disconnecting all outbound peers...
+7500: 12:23:33.621 - Shutting down ENet host...
+7500: 12:23:33.621 - Disconnecting all peers...
+7500: 12:23:33.621 - Shutting down socket servers...
+7500: 12:23:33.621 - Shutting down ENet thread pool...
+7500: 12:23:33.621 - Shutting down TCP inactivity timers...
+7500: 12:23:33.622 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+7500: 12:23:33.622 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+7500: 12:23:33.622 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+7500: 12:23:33.622 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+7500: 12:23:33.622 - WaitingForShutdownToComplete: TCP:0.0.0.0:4520
+7500: 12:23:33.622 - OnShutdownCompleted: TCP:0.0.0.0:4520
+7500: 12:23:33.622 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+7500: 12:23:33.622 - OnShutdownCompleted: TCP:0.0.0.0:4530
+7500: 12:23:33.622 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+7500: 12:23:33.622 - OnShutdownCompleted: UDP:127.0.0.1:5055
+7500: 12:23:33.622 - WaitingForShutdownToComplete: UDP:192.168.253.128:5055
+7500: 12:23:33.622 - OnShutdownCompleted: UDP:192.168.253.128:5055
+7500: 12:23:33.622 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+7500: 12:23:33.622 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+7500: 12:23:33.622 - Shutting down CLR applications...
+7500: 12:23:33.626 - Shutting down business logic thread pool...
+27448: 12:23:33.626 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+7500: 12:23:33.626 - Shutting down I/O thread pool...
+7500: 12:23:33.627 - Destroying servers
+7500: 12:23:33.627 - Destroying WebSocket Outbound Connection Manager
+7500: 12:23:33.627 - Destroying TCP Outbound Connection Manager
+7500: 12:23:33.627 - Destroying TCP inactivity timer
+7500: 12:23:33.627 - Destroying ENet timer wheel
+7500: 12:23:33.627 - Destroying ENet host
+7500: 12:23:33.627 - Destroying ENet outbound host
+7500: 12:23:33.627 - Destroying HTTP inactivity timer
+7500: 12:23:33.627 - Destroying HTTP host
+7500: 12:23:33.627 - Destroying HTTP Chunk host
+7500: 12:23:33.627 - Flushing ENET buffer allocator...
+7500: 12:23:33.628 - Flushing TCP buffer handle allocator...
+7500: 12:23:33.628 - Flushing stream socket allocator...
+7500: 12:23:33.628 - Flushing inbound datagram socket allocator...
+7500: 12:23:33.630 - Flushing outbound datagram socket allocator...
+7500: 12:23:33.630 - Destroying CLR dispatcher
+7500: 12:23:33.630 - Destroying CLR applications
+7500: 12:23:33.630 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+13552: 12:23:33.641 - Unloading Domain: ApplicationName = 'myConfig', DomainId='2'
+27448: 12:23:33.667 - CManagedHost::OnDomainUnload() - 2
+7500: 12:23:33.684 - ~CCLRApplicationCollection() - Done. All objects released
+7500: 12:23:33.684 - ~CManagedHost() - Release default app domain
+7500: 12:23:33.684 - CManagedHost::OnDomainUnload() - 1
+7500: 12:23:33.684 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+7500: 12:23:33.685 - ~CManagedHost
+7500: 12:23:33.685 - Destroying ENet thread pool
+7500: 12:23:33.686 - Destroying Business logic thread pool
+7500: 12:23:33.686 - Destroying I/O thread pool
+7500: 12:23:33.686 - Destroying ENet buffer allocator
+7500: 12:23:33.686 - Destroying TCP buffer allocator
+7500: 12:23:33.686 - Destroying TCP socket allocator
+7500: 12:23:33.686 - Destroying ENet inbound socket allocator
+7500: 12:23:33.686 - Destroying ENet outbound socket allocator
+7500: 12:23:33.686 - Destroying shared datagram flow control data
+7500: 12:23:33.686 - Shutdown complete...
+7500: 12:23:33.686 - Service shutting down
+7500: 12:23:33.689 - Service shut down complete
+1856: 12:44:26.083 - ---
+1856: 12:44:26.083 - Service: "Photon Socket Server" starting
+1856: 12:44:26.083 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+1856: 12:44:26.085 - Will produce at most: 10 crash dumps
+1856: 12:44:26.085 - Action: run as exe
+1856: 12:44:26.085 - Server Starting...
+1856: 12:44:26.085 -    Tick count: 100617906 (wraps in: 48.5457 days)
+1856: 12:44:26.085 - Tick count 64: 100617906
+1856: 12:44:26.085 - Photon Version: 4.0.28.2962
+1856: 12:44:26.085 - PID: 28620
+1856: 12:44:26.085 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+1856: 12:44:26.085 - Will NOT log unimportant exceptions
+1856: 12:44:26.087 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+1856: 12:44:26.088 - Shutdown timeout enabled: 30000ms
+1856: 12:44:26.088 - Starting I/O thread pool with 2 threads
+1856: 12:44:26.088 - Using Standard allocator
+1856: 12:44:26.088 - Max message size: 512000
+1856: 12:44:26.088 - Starting business logic thread pool with the following settings
+1856: 12:44:26.088 - InitialThreads: 4 threads
+1856: 12:44:26.088 - MinThreads: 4 threads
+1856: 12:44:26.088 - Thread pool is fixed size
+1856: 12:44:26.088 - Starting ENet thread pool with the following settings
+1856: 12:44:26.088 - InitialThreads: 2 threads
+1856: 12:44:26.088 - MinThreads: 2 threads
+1856: 12:44:26.088 - Thread pool is fixed size
+1856: 12:44:26.088 - OnlyDispatchTimers: False
+1856: 12:44:26.088 - S2S: flow control: Max pending writes: 50
+1856: 12:44:26.088 - S2S: flow control: Max queued buffers: 200
+1856: 12:44:26.088 - S2S: flow control: Max pending writes MUX: 500
+1856: 12:44:26.088 - S2S: flow control: Max queued buffers MUX: 2000
+1856: 12:44:26.088 - S2S: MaxInboundMessageSize: 512000
+1856: 12:44:26.088 - S2S: MaxOutboundMessageSize: 512000
+1856: 12:44:26.088 - S2S: No inactivity timeout
+1856: 12:44:26.090 - WebSocket S2S: MaxInboundMessageSize: 512000
+1856: 12:44:26.090 - WebSocket S2S: MaxOutboundMessageSize: 512000
+1856: 12:44:26.090 - WebSocket S2S: No inactivity timeout
+1856: 12:44:26.091 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+1856: 12:44:26.091 - Per peer bandwidth limit
+1856: 12:44:26.091 - Transmit Rate Limit: 256 KB/Sec
+1856: 12:44:26.091 - Limit period: 200ms
+1856: 12:44:26.091 - Limit per period: 52428 bytes
+1856: 12:44:26.091 - Max queued data for transmission per peer: 512000 bytes
+1856: 12:44:26.091 - Minimum retransmit timeout: 200
+1856: 12:44:26.091 - No Maximum retransmit timeout
+1856: 12:44:26.091 - Minimum ENet timeout: 40000ms
+1856: 12:44:26.091 - Maximum ENet timeout: 50000ms
+1856: 12:44:26.091 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+1856: 12:44:26.091 - No RTT ACK adjustment timeout
+1856: 12:44:26.091 - Outbound ENet: MaxInboundMessageSize: 512000
+1856: 12:44:26.091 - Outbound ENet: MaxOutboundMessageSize: 512000
+1856: 12:44:26.092 - GetRuntime - About to load CLR - versions available:
+1856: 12:44:26.092 - v2.0.50727
+1856: 12:44:26.092 - v4.0.30319
+1856: 12:44:26.092 - Configuration requests: "v2.0.50727"
+1856: 12:44:26.092 - About to load version: "v2.0.50727"
+1856: 12:44:26.095 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+1856: 12:44:26.095 - CLRBaseDirectory set to "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy"
+1856: 12:44:26.095 - Optimising event broadcast for 20 or more peers
+1856: 12:44:26.096 - Start: About to load CLR - versions available:
+1856: 12:44:26.096 - v2.0.50727
+1856: 12:44:26.096 - v4.0.30319
+1856: 12:44:26.096 - No preference in configuration file, will load latest.
+1856: 12:44:26.096 - About to load version: "v4.0.30319"
+1856: 12:44:26.097 - Loaded version: "v4.0.30319"
+1856: 12:44:26.220 - Photon host runtime loaded
+1856: 12:44:28.012 - License is valid.
+1856: 12:44:28.012 - Licensed for 100 concurrent connections.
+1856: 12:44:28.012 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+1856: 12:44:28.012 - ENet: Per peer bandwidth limit
+1856: 12:44:28.012 - ENet: Transmit Rate Limit: 256 KB/Sec
+1856: 12:44:28.012 - ENet: Limit period: 200ms
+1856: 12:44:28.012 - ENet: Limit per period: 52428 bytes
+1856: 12:44:28.012 - ENet: Max queued data for transmission per peer: 512000 bytes
+1856: 12:44:28.012 - ENet: Minimum retransmit timeout: 200
+1856: 12:44:28.012 - No Maximum retransmit timeout
+1856: 12:44:28.012 - ENet: Minimum timeout: 40000ms
+1856: 12:44:28.012 - ENet: Maximum timeout: 50000ms
+1856: 12:44:28.012 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+1856: 12:44:28.012 - No RTT ACK adjustment timeout
+1856: 12:44:28.012 - About to load application: myConfig from srcServerXuSoMuonThu
+1856: 12:44:28.064 - Taking reference on default app domain
+1856: 12:44:28.160 - Application: "myConfig" started in app domain: 2
+1856: 12:44:28.160 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+1856: 12:44:28.160 - TCP inactivity timeout: 10000ms
+1856: 12:44:28.160 - TCP disconnect timeout: 120000ms
+1856: 12:44:28.161 - MaxInboundMessageSize: 512000
+1856: 12:44:28.161 - MaxOutboundMessageSize: 512000
+1856: 12:44:28.161 - Forcing all applications ids to: "myConfig"
+1856: 12:44:28.161 - Serving policy file requests from: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+1856: 12:44:28.161 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+1856: 12:44:28.161 - TCP inactivity timeout: 5000ms
+1856: 12:44:28.161 - TCP disconnect timeout: 120000ms
+1856: 12:44:28.161 - MaxInboundMessageSize: 512000
+1856: 12:44:28.161 - MaxOutboundMessageSize: 512000
+1856: 12:44:28.161 - Forcing all applications ids to: "myConfig"
+1856: 12:44:28.161 - MaxInboundMessageSize: 512000
+1856: 12:44:28.161 - MaxOutboundMessageSize: 512000
+1856: 12:44:28.161 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+1856: 12:44:28.162 - Adding UDP listener on: 192.168.253.128: 5055 with a listen backlog of: 500
+1856: 12:44:28.162 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+1856: 12:44:28.162 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+1856: 12:44:28.162 - Nagle disabled
+1856: 12:44:28.162 - TCP inactivity timeout: 10000ms
+1856: 12:44:28.162 - MaxInboundMessageSize: 512000
+1856: 12:44:28.162 - MaxOutboundMessageSize: 512000
+1856: 12:44:28.162 - Forcing all applications ids to: "myConfig"
+1856: 12:44:28.162 - Will accept ANY sub-protocols from the client
+1856: 12:44:28.162 - No automatic WebSocket ping
+1856: 12:44:28.162 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+1856: 12:44:28.162 - TCP inactivity timeout: 1000ms
+1856: 12:44:28.162 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy-silverlight.xml"
+1856: 12:44:28.162 - TCP inactivity timeout: 1000ms
+1856: 12:44:28.191 - Service is running...
+1856: 12:44:46.160 - Service is stopped...
+1856: 12:44:46.160 - Server shutting down...
+1856: 12:44:46.160 - Shutdown monitoring enabled, 30000ms before process abort
+1856: 12:44:46.160 - Notifying CLR applications of shutdown...
+1856: 12:44:46.160 - RequestApplicationStop: 2
+1856: 12:44:46.164 - RequestStop: defalt app domain
+1856: 12:44:46.166 - Shutting down WebSocket Outbound Connection Manager...
+1856: 12:44:46.166 - Shutting down TCP Outbound Connection Manager...
+1856: 12:44:46.166 - Shutting down ENet Outbound Connection Manager...
+1856: 12:44:46.166 - Disconnecting all outbound peers...
+1856: 12:44:46.166 - Shutting down ENet host...
+1856: 12:44:46.166 - Disconnecting all peers...
+1856: 12:44:46.166 - Shutting down socket servers...
+1856: 12:44:46.173 - Shutting down ENet thread pool...
+1856: 12:44:46.173 - Shutting down TCP inactivity timers...
+1856: 12:44:46.173 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+1856: 12:44:46.174 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+1856: 12:44:46.174 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+1856: 12:44:46.174 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+1856: 12:44:46.174 - WaitingForShutdownToComplete: TCP:0.0.0.0:4520
+1856: 12:44:46.174 - OnShutdownCompleted: TCP:0.0.0.0:4520
+1856: 12:44:46.174 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+1856: 12:44:46.174 - OnShutdownCompleted: TCP:0.0.0.0:4530
+1856: 12:44:46.174 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+1856: 12:44:46.174 - OnShutdownCompleted: UDP:127.0.0.1:5055
+1856: 12:44:46.174 - WaitingForShutdownToComplete: UDP:192.168.253.128:5055
+1856: 12:44:46.174 - OnShutdownCompleted: UDP:192.168.253.128:5055
+1856: 12:44:46.174 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+1856: 12:44:46.174 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+1856: 12:44:46.174 - Shutting down CLR applications...
+1856: 12:44:46.183 - Shutting down business logic thread pool...
+3896: 12:44:46.183 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+1856: 12:44:46.188 - Shutting down I/O thread pool...
+1856: 12:44:46.189 - Destroying servers
+1856: 12:44:46.189 - Destroying WebSocket Outbound Connection Manager
+1856: 12:44:46.189 - Destroying TCP Outbound Connection Manager
+1856: 12:44:46.189 - Destroying TCP inactivity timer
+1856: 12:44:46.189 - Destroying ENet timer wheel
+1856: 12:44:46.189 - Destroying ENet host
+1856: 12:44:46.189 - Destroying ENet outbound host
+1856: 12:44:46.189 - Destroying HTTP inactivity timer
+1856: 12:44:46.189 - Destroying HTTP host
+1856: 12:44:46.189 - Destroying HTTP Chunk host
+1856: 12:44:46.189 - Flushing ENET buffer allocator...
+1856: 12:44:46.191 - Flushing TCP buffer handle allocator...
+1856: 12:44:46.191 - Flushing stream socket allocator...
+1856: 12:44:46.191 - Flushing inbound datagram socket allocator...
+1856: 12:44:46.193 - Flushing outbound datagram socket allocator...
+1856: 12:44:46.193 - Destroying CLR dispatcher
+1856: 12:44:46.193 - Destroying CLR applications
+1856: 12:44:46.194 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+7596: 12:44:46.201 - Unloading Domain: ApplicationName = 'myConfig', DomainId='2'
+3896: 12:44:46.224 - CManagedHost::OnDomainUnload() - 2
+1856: 12:44:46.225 - ~CCLRApplicationCollection() - Done. All objects released
+1856: 12:44:46.225 - ~CManagedHost() - Release default app domain
+1856: 12:44:46.225 - CManagedHost::OnDomainUnload() - 1
+1856: 12:44:46.225 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+1856: 12:44:46.225 - ~CManagedHost
+1856: 12:44:46.225 - Destroying ENet thread pool
+1856: 12:44:46.225 - Destroying Business logic thread pool
+1856: 12:44:46.225 - Destroying I/O thread pool
+1856: 12:44:46.225 - Destroying ENet buffer allocator
+1856: 12:44:46.225 - Destroying TCP buffer allocator
+1856: 12:44:46.225 - Destroying TCP socket allocator
+1856: 12:44:46.225 - Destroying ENet inbound socket allocator
+1856: 12:44:46.225 - Destroying ENet outbound socket allocator
+1856: 12:44:46.225 - Destroying shared datagram flow control data
+1856: 12:44:46.225 - Shutdown complete...
+1856: 12:44:46.225 - Service shutting down
+1856: 12:44:46.228 - Service shut down complete
+10660: 12:45:02.139 - ---
+10660: 12:45:02.139 - Service: "Photon Socket Server" starting
+10660: 12:45:02.139 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+10660: 12:45:02.142 - Will produce at most: 10 crash dumps
+10660: 12:45:02.142 - Action: run as exe
+10660: 12:45:02.142 - Server Starting...
+10660: 12:45:02.142 -    Tick count: 100653953 (wraps in: 48.5453 days)
+10660: 12:45:02.142 - Tick count 64: 100653953
+10660: 12:45:02.142 - Photon Version: 4.0.28.2962
+10660: 12:45:02.142 - PID: 25192
+10660: 12:45:02.143 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+10660: 12:45:02.143 - Will NOT log unimportant exceptions
+10660: 12:45:02.146 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+10660: 12:45:02.146 - Shutdown timeout enabled: 30000ms
+10660: 12:45:02.146 - Starting I/O thread pool with 2 threads
+10660: 12:45:02.146 - Using Standard allocator
+10660: 12:45:02.146 - Max message size: 512000
+10660: 12:45:02.146 - Starting business logic thread pool with the following settings
+10660: 12:45:02.146 - InitialThreads: 4 threads
+10660: 12:45:02.146 - MinThreads: 4 threads
+10660: 12:45:02.146 - Thread pool is fixed size
+10660: 12:45:02.147 - Starting ENet thread pool with the following settings
+10660: 12:45:02.147 - InitialThreads: 2 threads
+10660: 12:45:02.147 - MinThreads: 2 threads
+10660: 12:45:02.147 - Thread pool is fixed size
+10660: 12:45:02.147 - OnlyDispatchTimers: False
+10660: 12:45:02.147 - S2S: flow control: Max pending writes: 50
+10660: 12:45:02.147 - S2S: flow control: Max queued buffers: 200
+10660: 12:45:02.147 - S2S: flow control: Max pending writes MUX: 500
+10660: 12:45:02.147 - S2S: flow control: Max queued buffers MUX: 2000
+10660: 12:45:02.147 - S2S: MaxInboundMessageSize: 512000
+10660: 12:45:02.147 - S2S: MaxOutboundMessageSize: 512000
+10660: 12:45:02.147 - S2S: No inactivity timeout
+10660: 12:45:02.150 - WebSocket S2S: MaxInboundMessageSize: 512000
+10660: 12:45:02.150 - WebSocket S2S: MaxOutboundMessageSize: 512000
+10660: 12:45:02.150 - WebSocket S2S: No inactivity timeout
+10660: 12:45:02.150 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+10660: 12:45:02.150 - Per peer bandwidth limit
+10660: 12:45:02.150 - Transmit Rate Limit: 256 KB/Sec
+10660: 12:45:02.150 - Limit period: 200ms
+10660: 12:45:02.150 - Limit per period: 52428 bytes
+10660: 12:45:02.150 - Max queued data for transmission per peer: 512000 bytes
+10660: 12:45:02.150 - Minimum retransmit timeout: 200
+10660: 12:45:02.150 - No Maximum retransmit timeout
+10660: 12:45:02.150 - Minimum ENet timeout: 40000ms
+10660: 12:45:02.150 - Maximum ENet timeout: 50000ms
+10660: 12:45:02.150 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+10660: 12:45:02.150 - No RTT ACK adjustment timeout
+10660: 12:45:02.150 - Outbound ENet: MaxInboundMessageSize: 512000
+10660: 12:45:02.150 - Outbound ENet: MaxOutboundMessageSize: 512000
+10660: 12:45:02.151 - GetRuntime - About to load CLR - versions available:
+10660: 12:45:02.151 - v2.0.50727
+10660: 12:45:02.151 - v4.0.30319
+10660: 12:45:02.151 - Configuration requests: "v2.0.50727"
+10660: 12:45:02.151 - About to load version: "v2.0.50727"
+10660: 12:45:02.157 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+10660: 12:45:02.157 - CLRBaseDirectory set to "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy"
+10660: 12:45:02.157 - Optimising event broadcast for 20 or more peers
+10660: 12:45:02.157 - Start: About to load CLR - versions available:
+10660: 12:45:02.157 - v2.0.50727
+10660: 12:45:02.157 - v4.0.30319
+10660: 12:45:02.157 - No preference in configuration file, will load latest.
+10660: 12:45:02.157 - About to load version: "v4.0.30319"
+10660: 12:45:02.159 - Loaded version: "v4.0.30319"
+10660: 12:45:02.342 - Photon host runtime loaded
+10660: 12:45:04.104 - License is valid.
+10660: 12:45:04.104 - Licensed for 100 concurrent connections.
+10660: 12:45:04.104 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+10660: 12:45:04.104 - ENet: Per peer bandwidth limit
+10660: 12:45:04.104 - ENet: Transmit Rate Limit: 256 KB/Sec
+10660: 12:45:04.104 - ENet: Limit period: 200ms
+10660: 12:45:04.104 - ENet: Limit per period: 52428 bytes
+10660: 12:45:04.104 - ENet: Max queued data for transmission per peer: 512000 bytes
+10660: 12:45:04.104 - ENet: Minimum retransmit timeout: 200
+10660: 12:45:04.104 - No Maximum retransmit timeout
+10660: 12:45:04.104 - ENet: Minimum timeout: 40000ms
+10660: 12:45:04.104 - ENet: Maximum timeout: 50000ms
+10660: 12:45:04.104 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+10660: 12:45:04.104 - No RTT ACK adjustment timeout
+10660: 12:45:04.104 - About to load application: myConfig from srcServerXuSoMuonThu
+10660: 12:45:04.164 - Taking reference on default app domain
+10660: 12:45:04.284 - Application: "myConfig" started in app domain: 2
+10660: 12:45:04.284 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+10660: 12:45:04.284 - TCP inactivity timeout: 10000ms
+10660: 12:45:04.284 - TCP disconnect timeout: 120000ms
+10660: 12:45:04.284 - MaxInboundMessageSize: 512000
+10660: 12:45:04.284 - MaxOutboundMessageSize: 512000
+10660: 12:45:04.284 - Forcing all applications ids to: "myConfig"
+10660: 12:45:04.284 - Serving policy file requests from: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+10660: 12:45:04.285 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+10660: 12:45:04.285 - TCP inactivity timeout: 5000ms
+10660: 12:45:04.285 - TCP disconnect timeout: 120000ms
+10660: 12:45:04.285 - MaxInboundMessageSize: 512000
+10660: 12:45:04.285 - MaxOutboundMessageSize: 512000
+10660: 12:45:04.285 - Forcing all applications ids to: "myConfig"
+10660: 12:45:04.285 - MaxInboundMessageSize: 512000
+10660: 12:45:04.285 - MaxOutboundMessageSize: 512000
+10660: 12:45:04.285 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+10660: 12:45:04.285 - Adding UDP listener on: 192.168.253.128: 5055 with a listen backlog of: 500
+10660: 12:45:04.285 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+10660: 12:45:04.286 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+10660: 12:45:04.286 - Nagle disabled
+10660: 12:45:04.286 - TCP inactivity timeout: 10000ms
+10660: 12:45:04.286 - MaxInboundMessageSize: 512000
+10660: 12:45:04.286 - MaxOutboundMessageSize: 512000
+10660: 12:45:04.286 - Forcing all applications ids to: "myConfig"
+10660: 12:45:04.286 - Will accept ANY sub-protocols from the client
+10660: 12:45:04.286 - No automatic WebSocket ping
+10660: 12:45:04.286 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+10660: 12:45:04.286 - TCP inactivity timeout: 1000ms
+10660: 12:45:04.286 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy-silverlight.xml"
+10660: 12:45:04.286 - TCP inactivity timeout: 1000ms
+10660: 12:45:04.322 - Service is running...
+10660: 12:50:02.911 - Service is stopped...
+10660: 12:50:02.911 - Server shutting down...
+10660: 12:50:02.911 - Shutdown monitoring enabled, 30000ms before process abort
+10660: 12:50:02.911 - Notifying CLR applications of shutdown...
+10660: 12:50:02.911 - RequestApplicationStop: 2
+10660: 12:50:02.916 - RequestStop: defalt app domain
+10660: 12:50:02.918 - Shutting down WebSocket Outbound Connection Manager...
+10660: 12:50:02.918 - Shutting down TCP Outbound Connection Manager...
+10660: 12:50:02.918 - Shutting down ENet Outbound Connection Manager...
+10660: 12:50:02.918 - Disconnecting all outbound peers...
+10660: 12:50:02.918 - Shutting down ENet host...
+10660: 12:50:02.918 - Disconnecting all peers...
+10660: 12:50:02.918 - Shutting down socket servers...
+10660: 12:50:02.918 - Shutting down ENet thread pool...
+10660: 12:50:02.945 - Shutting down TCP inactivity timers...
+10660: 12:50:02.946 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+10660: 12:50:02.946 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+10660: 12:50:02.946 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+10660: 12:50:02.946 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+10660: 12:50:02.946 - WaitingForShutdownToComplete: TCP:0.0.0.0:4520
+10660: 12:50:02.946 - OnShutdownCompleted: TCP:0.0.0.0:4520
+10660: 12:50:02.946 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+10660: 12:50:02.946 - OnShutdownCompleted: TCP:0.0.0.0:4530
+10660: 12:50:02.946 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+10660: 12:50:02.946 - OnShutdownCompleted: UDP:127.0.0.1:5055
+10660: 12:50:02.946 - WaitingForShutdownToComplete: UDP:192.168.253.128:5055
+10660: 12:50:02.946 - OnShutdownCompleted: UDP:192.168.253.128:5055
+10660: 12:50:02.946 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+10660: 12:50:02.946 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+10660: 12:50:02.946 - Shutting down CLR applications...
+10660: 12:50:02.950 - Shutting down business logic thread pool...
+6472: 12:50:02.952 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+10660: 12:50:02.954 - Shutting down I/O thread pool...
+10660: 12:50:02.954 - Destroying servers
+10660: 12:50:02.954 - Destroying WebSocket Outbound Connection Manager
+10660: 12:50:02.954 - Destroying TCP Outbound Connection Manager
+10660: 12:50:02.955 - Destroying TCP inactivity timer
+10660: 12:50:02.955 - Destroying ENet timer wheel
+10660: 12:50:02.955 - Destroying ENet host
+10660: 12:50:02.955 - Destroying ENet outbound host
+10660: 12:50:02.955 - Destroying HTTP inactivity timer
+10660: 12:50:02.955 - Destroying HTTP host
+10660: 12:50:02.955 - Destroying HTTP Chunk host
+10660: 12:50:02.955 - Flushing ENET buffer allocator...
+10660: 12:50:02.956 - Flushing TCP buffer handle allocator...
+10660: 12:50:02.956 - Flushing stream socket allocator...
+10660: 12:50:02.956 - Flushing inbound datagram socket allocator...
+10660: 12:50:02.958 - Flushing outbound datagram socket allocator...
+10660: 12:50:02.958 - Destroying CLR dispatcher
+10660: 12:50:02.958 - Destroying CLR applications
+10660: 12:50:02.959 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+21276: 12:50:02.968 - Unloading Domain: ApplicationName = 'myConfig', DomainId='2'
+6472: 12:50:02.999 - CManagedHost::OnDomainUnload() - 2
+10660: 12:50:03.000 - ~CCLRApplicationCollection() - Done. All objects released
+10660: 12:50:03.000 - ~CManagedHost() - Release default app domain
+10660: 12:50:03.000 - CManagedHost::OnDomainUnload() - 1
+10660: 12:50:03.000 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+10660: 12:50:03.000 - ~CManagedHost
+10660: 12:50:03.001 - Destroying ENet thread pool
+10660: 12:50:03.001 - Destroying Business logic thread pool
+10660: 12:50:03.001 - Destroying I/O thread pool
+10660: 12:50:03.001 - Destroying ENet buffer allocator
+10660: 12:50:03.001 - Destroying TCP buffer allocator
+10660: 12:50:03.001 - Destroying TCP socket allocator
+10660: 12:50:03.001 - Destroying ENet inbound socket allocator
+10660: 12:50:03.001 - Destroying ENet outbound socket allocator
+10660: 12:50:03.001 - Destroying shared datagram flow control data
+10660: 12:50:03.001 - Shutdown complete...
+10660: 12:50:03.001 - Service shutting down
+10660: 12:50:03.002 - Service shut down complete
+10524: 12:50:12.485 - ---
+10524: 12:50:12.485 - Service: "Photon Socket Server" starting
+10524: 12:50:12.485 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+10524: 12:50:12.488 - Will produce at most: 10 crash dumps
+10524: 12:50:12.488 - Action: run as exe
+10524: 12:50:12.489 - Server Starting...
+10524: 12:50:12.489 -    Tick count: 100964312 (wraps in: 48.5417 days)
+10524: 12:50:12.489 - Tick count 64: 100964312
+10524: 12:50:12.489 - Photon Version: 4.0.28.2962
+10524: 12:50:12.489 - PID: 5580
+10524: 12:50:12.489 - Config File: C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\bin_Win64\PhotonServer.config
+10524: 12:50:12.489 - Will NOT log unimportant exceptions
+10524: 12:50:12.492 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+10524: 12:50:12.492 - Shutdown timeout enabled: 30000ms
+10524: 12:50:12.493 - Starting I/O thread pool with 2 threads
+10524: 12:50:12.493 - Using Standard allocator
+10524: 12:50:12.493 - Max message size: 512000
+10524: 12:50:12.493 - Starting business logic thread pool with the following settings
+10524: 12:50:12.493 - InitialThreads: 4 threads
+10524: 12:50:12.493 - MinThreads: 4 threads
+10524: 12:50:12.493 - Thread pool is fixed size
+10524: 12:50:12.493 - Starting ENet thread pool with the following settings
+10524: 12:50:12.493 - InitialThreads: 2 threads
+10524: 12:50:12.493 - MinThreads: 2 threads
+10524: 12:50:12.493 - Thread pool is fixed size
+10524: 12:50:12.493 - OnlyDispatchTimers: False
+10524: 12:50:12.493 - S2S: flow control: Max pending writes: 50
+10524: 12:50:12.493 - S2S: flow control: Max queued buffers: 200
+10524: 12:50:12.493 - S2S: flow control: Max pending writes MUX: 500
+10524: 12:50:12.493 - S2S: flow control: Max queued buffers MUX: 2000
+10524: 12:50:12.493 - S2S: MaxInboundMessageSize: 512000
+10524: 12:50:12.493 - S2S: MaxOutboundMessageSize: 512000
+10524: 12:50:12.493 - S2S: No inactivity timeout
+10524: 12:50:12.496 - WebSocket S2S: MaxInboundMessageSize: 512000
+10524: 12:50:12.496 - WebSocket S2S: MaxOutboundMessageSize: 512000
+10524: 12:50:12.496 - WebSocket S2S: No inactivity timeout
+10524: 12:50:12.497 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+10524: 12:50:12.497 - Per peer bandwidth limit
+10524: 12:50:12.497 - Transmit Rate Limit: 256 KB/Sec
+10524: 12:50:12.497 - Limit period: 200ms
+10524: 12:50:12.497 - Limit per period: 52428 bytes
+10524: 12:50:12.497 - Max queued data for transmission per peer: 512000 bytes
+10524: 12:50:12.497 - Minimum retransmit timeout: 200
+10524: 12:50:12.497 - No Maximum retransmit timeout
+10524: 12:50:12.497 - Minimum ENet timeout: 40000ms
+10524: 12:50:12.497 - Maximum ENet timeout: 50000ms
+10524: 12:50:12.497 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+10524: 12:50:12.497 - No RTT ACK adjustment timeout
+10524: 12:50:12.497 - Outbound ENet: MaxInboundMessageSize: 512000
+10524: 12:50:12.497 - Outbound ENet: MaxOutboundMessageSize: 512000
+10524: 12:50:12.499 - GetRuntime - About to load CLR - versions available:
+10524: 12:50:12.499 - v2.0.50727
+10524: 12:50:12.499 - v4.0.30319
+10524: 12:50:12.499 - Configuration requests: "v2.0.50727"
+10524: 12:50:12.499 - About to load version: "v2.0.50727"
+10524: 12:50:12.504 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+10524: 12:50:12.504 - CLRBaseDirectory set to "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy"
+10524: 12:50:12.504 - Optimising event broadcast for 20 or more peers
+10524: 12:50:12.505 - Start: About to load CLR - versions available:
+10524: 12:50:12.505 - v2.0.50727
+10524: 12:50:12.505 - v4.0.30319
+10524: 12:50:12.505 - No preference in configuration file, will load latest.
+10524: 12:50:12.505 - About to load version: "v4.0.30319"
+10524: 12:50:12.507 - Loaded version: "v4.0.30319"
+10524: 12:50:12.787 - Photon host runtime loaded
+10524: 12:50:14.872 - License is valid.
+10524: 12:50:14.872 - Licensed for 100 concurrent connections.
+10524: 12:50:14.872 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+10524: 12:50:14.872 - ENet: Per peer bandwidth limit
+10524: 12:50:14.872 - ENet: Transmit Rate Limit: 256 KB/Sec
+10524: 12:50:14.872 - ENet: Limit period: 200ms
+10524: 12:50:14.872 - ENet: Limit per period: 52428 bytes
+10524: 12:50:14.872 - ENet: Max queued data for transmission per peer: 512000 bytes
+10524: 12:50:14.872 - ENet: Minimum retransmit timeout: 200
+10524: 12:50:14.872 - No Maximum retransmit timeout
+10524: 12:50:14.872 - ENet: Minimum timeout: 40000ms
+10524: 12:50:14.872 - ENet: Maximum timeout: 50000ms
+10524: 12:50:14.872 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+10524: 12:50:14.873 - No RTT ACK adjustment timeout
+10524: 12:50:14.873 - About to load application: myConfig from srcServerXuSoMuonThu
+10524: 12:50:14.947 - Taking reference on default app domain
+10524: 12:50:15.050 - Application: "myConfig" started in app domain: 2
+10524: 12:50:15.051 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+10524: 12:50:15.051 - TCP inactivity timeout: 10000ms
+10524: 12:50:15.051 - TCP disconnect timeout: 120000ms
+10524: 12:50:15.051 - MaxInboundMessageSize: 512000
+10524: 12:50:15.051 - MaxOutboundMessageSize: 512000
+10524: 12:50:15.051 - Forcing all applications ids to: "myConfig"
+10524: 12:50:15.051 - Serving policy file requests from: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+10524: 12:50:15.051 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+10524: 12:50:15.051 - TCP inactivity timeout: 5000ms
+10524: 12:50:15.051 - TCP disconnect timeout: 120000ms
+10524: 12:50:15.051 - MaxInboundMessageSize: 512000
+10524: 12:50:15.051 - MaxOutboundMessageSize: 512000
+10524: 12:50:15.051 - Forcing all applications ids to: "myConfig"
+10524: 12:50:15.051 - MaxInboundMessageSize: 512000
+10524: 12:50:15.051 - MaxOutboundMessageSize: 512000
+10524: 12:50:15.051 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+10524: 12:50:15.051 - Adding UDP listener on: 192.168.253.128: 5055 with a listen backlog of: 500
+10524: 12:50:15.052 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+10524: 12:50:15.052 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+10524: 12:50:15.052 - Nagle disabled
+10524: 12:50:15.052 - TCP inactivity timeout: 10000ms
+10524: 12:50:15.052 - MaxInboundMessageSize: 512000
+10524: 12:50:15.052 - MaxOutboundMessageSize: 512000
+10524: 12:50:15.052 - Forcing all applications ids to: "myConfig"
+10524: 12:50:15.052 - Will accept ANY sub-protocols from the client
+10524: 12:50:15.052 - No automatic WebSocket ping
+10524: 12:50:15.052 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy.xml"
+10524: 12:50:15.052 - TCP inactivity timeout: 1000ms
+10524: 12:50:15.052 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\duong\Desktop\XuSoMuonThu\ServerXuSoMuonThu\deploy\Policy\assets\socket-policy-silverlight.xml"
+10524: 12:50:15.052 - TCP inactivity timeout: 1000ms
+10524: 12:50:15.085 - Service is running...
